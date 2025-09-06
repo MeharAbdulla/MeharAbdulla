@@ -1,1 +1,1 @@
-https://github.com/MeharAbdulla/MeharAbdulla/blob/main/assets/banner.png
+![Banner](https://github.com/MeharAbdulla/MeharAbdulla/blob/main/assets/banner.png)
