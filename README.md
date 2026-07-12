@@ -17,7 +17,7 @@
 - 🤝 I’m looking for help with **scaling AI chatbots, autonomous drones/EV systems, and robotics R&D**.  
 - 💬 Ask me about **AI automation, ML, computer vision, FastAPI, Django, React, Vue, GSAP, and web scraping**.  
 - 👨‍💻 All of my projects are available at [github.com/MeharAbdulla](https://github.com/MeharAbdulla)  
-- 📫 Reach me at **meharabdullah665@gmail.com**  
+- 📫 **  
 - ⚡ Fun fact: **I don’t just train AI models—I make them automate workflows and run as real-world products.**
 
 ---
