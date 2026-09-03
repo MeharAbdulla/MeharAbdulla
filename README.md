@@ -63,12 +63,12 @@
   </tr>
   <tr>
     <td width="50%" align="center" valign="top">
-      <a href="https://github.com/MeharAbdulla/esp32-fertilizer-spray-robot">
-        <img src="https://raw.githubusercontent.com/MeharAbdulla/esp32-fertilizer-spray-robot/main/media/prototype.jpg" width="420" alt="Spray robot" />
+      <a href="https://github.com/MeharAbdulla/Vision-Language-Benchmark">
+        <img src="https://opengraph.githubassets.com/1/MeharAbdulla/Vision-Language-Benchmark" width="420" alt="Vision Language Benchmark CLIP MediaTek" />
       </a>
       <br/><br/>
-      <a href="https://github.com/MeharAbdulla/esp32-fertilizer-spray-robot"><b>Fertilizer spray robot</b></a>
-      <br/>Solar ESP32 · pump control · field chassis
+      <a href="https://github.com/MeharAbdulla/Vision-Language-Benchmark"><b>Vision-Language Benchmark (CLIP)</b></a>
+      <br/>MobileCLIP on MediaTek · edge latency · video AI
     </td>
     <td width="50%" align="center" valign="top">
       <a href="https://github.com/MeharAbdulla/adjustable-vision-capture-rig">
@@ -96,6 +96,7 @@
 | [Freematics OBD-II MK2](https://github.com/MeharAbdulla/freematics-obd2-emulator-mk2) | Speed tracking OLED + desktop app |
 | [ESP32 gas and flame detector](https://github.com/MeharAbdulla/esp32-gas-flame-detector) | IoT safety gauge + flame alert |
 | [ESP32 PCB bring-up](https://github.com/MeharAbdulla/vortex-esp32-devboard-firmware) | Vortex board firmware validation |
+| [Fertilizer spray robot](https://github.com/MeharAbdulla/esp32-fertilizer-spray-robot) | Solar ESP32 spray chassis |
 | [IP66 field monitor](https://github.com/MeharAbdulla/ip66-field-monitor-node) | Sealed LCD field node |
 | [RFID attendance](https://github.com/MeharAbdulla/rfid-biometric-attendance) | RC522 + OLED kiosk |
 | [Sleep quality monitor](https://github.com/MeharAbdulla/smart-sleep-quality-monitor) | OLED metrics + audio |
@@ -112,10 +113,11 @@
 
 | Project | Focus |
 | --- | --- |
+| [Vision-Language Benchmark](https://github.com/MeharAbdulla/Vision-Language-Benchmark) | MobileCLIP / edge VLM on MediaTek |
 | [Pi crystal detection](https://github.com/MeharAbdulla/adjustable-vision-capture-rig) | Raspberry Pi + YOLOv8 crystals |
+| [YOLOv8 plant disease](https://github.com/MeharAbdulla/yolo-plant-disease-detector) | Leaf / disease detection |
 | [YOLOv8 sheep counter](https://github.com/MeharAbdulla/yolo-sheep-counter) | Flock counting from video |
 | [Potato counter](https://github.com/MeharAbdulla/yolo-potato-counter) | Produce counting / QC |
-| [CLIP on MediaTek](https://github.com/MeharAbdulla/Vision-Language-Benchmark) | Edge VLM benchmark |
 | [Lane / object detection](https://github.com/MeharAbdulla/Lane-Segmentation-Object-Detection) | Driving-scene vision |
 | [nRF24 remote](https://github.com/MeharAbdulla/esp32-nrf24-joystick-remote) | Dual radio ESP32 teleop |
 
@@ -139,8 +141,8 @@
 
 [SO-101 gripper](https://github.com/MeharAbdulla/so101-pi-cam-gripper) ·
 [OBD-II speed](https://github.com/MeharAbdulla/freematics-obd2-emulator-mk2) ·
+[CLIP MediaTek](https://github.com/MeharAbdulla/Vision-Language-Benchmark) ·
 [PCB bring-up](https://github.com/MeharAbdulla/vortex-esp32-devboard-firmware) ·
-[MQTT](https://github.com/MeharAbdulla/esp32-home-assistant-mqtt-monitor) ·
 [Pi crystal YOLO](https://github.com/MeharAbdulla/adjustable-vision-capture-rig) ·
 [All repos](https://github.com/MeharAbdulla?tab=repositories)
 
