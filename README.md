@@ -1,21 +1,21 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=26&duration=3500&pause=900&color=39D353&center=true&vCenter=true&width=720&lines=ESP32+IoT+%26+Edge+AI+Engineer;Raspberry+Pi+%7C+YOLO+Crystal+Detection;WLED+%7C+Firmware+%7C+MQTT;From+prototype+to+batch" alt="typing animation" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=26&duration=3500&pause=900&color=39D353&center=true&vCenter=true&width=720&lines=ESP32+IoT+%26+Edge+AI+Engineer;PCB+Bring-up+%7C+Firmware;Raspberry+Pi+%7C+YOLO+Crystal+Detection;WLED+%7C+MQTT+%7C+Bench+to+Batch" alt="typing animation" />
 
 # Mehar Abdullah
 
-**ESP32 · Raspberry Pi · IoT · Edge AI · Computer Vision**
+**ESP32 · PCB · Raspberry Pi · IoT · Edge AI · Computer Vision**
 
 [![Repos](https://img.shields.io/badge/GitHub-Repos-161b22?style=for-the-badge&logo=github)](https://github.com/MeharAbdulla?tab=repositories)
 [![ESP32](https://img.shields.io/badge/ESP32-IoT-39D353?style=for-the-badge)](https://github.com/MeharAbdulla/esp32-gas-flame-detector)
+[![PCB](https://img.shields.io/badge/PCB-Bring--up-0ea5e9?style=for-the-badge)](https://github.com/MeharAbdulla/vortex-esp32-devboard-firmware)
 [![Pi+YOLO](https://img.shields.io/badge/Pi-Crystal%20YOLO-c51a4a?style=for-the-badge)](https://github.com/MeharAbdulla/adjustable-vision-capture-rig)
-[![MQTT](https://img.shields.io/badge/MQTT-Home_Assistant-f78166?style=for-the-badge)](https://github.com/MeharAbdulla/esp32-home-assistant-mqtt-monitor)
 
 <img src="https://skillicons.dev/icons?i=python,cpp,c,arduino,linux,git,docker,opencv,tensorflow,pytorch&theme=dark" alt="skills" />
 
 </div>
 
-I design and ship **real devices**: ESP32 firmware, Raspberry Pi edge AI (crystal detection with YOLO), MQTT dashboards, and vision pipelines — from bench prototype to documented handoff.
+I design and ship **real devices**: ESP32 firmware, **PCB board bring-up**, Raspberry Pi edge AI (crystal detection with YOLO), MQTT dashboards, and vision pipelines — from bench prototype to documented handoff.
 
 GitHub-only profile. No email, phone, or personal websites here.
 
@@ -73,12 +73,12 @@ GitHub-only profile. No email, phone, or personal websites here.
       <br/>Raspberry Pi · lab-jack camera · embedded AI
     </td>
     <td width="50%" align="center" valign="top">
-      <a href="https://github.com/MeharAbdulla/yolo-sheep-counter">
-        <img src="https://raw.githubusercontent.com/MeharAbdulla/yolo-sheep-counter/main/media/demo-frame.jpg" width="420" alt="Sheep counter" />
+      <a href="https://github.com/MeharAbdulla/vortex-esp32-devboard-firmware">
+        <img src="https://raw.githubusercontent.com/MeharAbdulla/vortex-esp32-devboard-firmware/main/media/board-render.jpg" width="420" alt="Vortex ESP32 PCB" />
       </a>
       <br/><br/>
-      <a href="https://github.com/MeharAbdulla/yolo-sheep-counter"><b>YOLOv8 sheep counter</b></a>
-      <br/>Object counting from pasture video
+      <a href="https://github.com/MeharAbdulla/vortex-esp32-devboard-firmware"><b>ESP32 PCB bring-up (Vortex)</b></a>
+      <br/>Custom board · LEDs · GPIO · firmware validation
     </td>
   </tr>
 </table>
@@ -94,6 +94,7 @@ GitHub-only profile. No email, phone, or personal websites here.
 
 | Project | Focus |
 | --- | --- |
+| [ESP32 PCB bring-up](https://github.com/MeharAbdulla/vortex-esp32-devboard-firmware) | Vortex board firmware validation |
 | [IP66 field monitor](https://github.com/MeharAbdulla/ip66-field-monitor-node) | Sealed LCD field node |
 | [RFID attendance](https://github.com/MeharAbdulla/rfid-biometric-attendance) | RC522 + OLED kiosk |
 | [Sleep quality monitor](https://github.com/MeharAbdulla/smart-sleep-quality-monitor) | OLED metrics + audio |
@@ -111,6 +112,7 @@ GitHub-only profile. No email, phone, or personal websites here.
 | Project | Focus |
 | --- | --- |
 | [Pi crystal detection](https://github.com/MeharAbdulla/adjustable-vision-capture-rig) | Raspberry Pi + YOLOv8 crystals |
+| [YOLOv8 sheep counter](https://github.com/MeharAbdulla/yolo-sheep-counter) | Flock counting from video |
 | [Potato counter](https://github.com/MeharAbdulla/yolo-potato-counter) | Produce counting / QC |
 | [CLIP on MediaTek](https://github.com/MeharAbdulla/Vision-Language-Benchmark) | Edge VLM benchmark |
 | [Lane / object detection](https://github.com/MeharAbdulla/Lane-Segmentation-Object-Detection) | Driving-scene vision |
@@ -126,18 +128,18 @@ GitHub-only profile. No email, phone, or personal websites here.
 | --- | --- |
 | Firmware | ESP32, Arduino, STM32, Raspberry Pi, PlatformIO |
 | IoT / LEDs | MQTT, Home Assistant, sensors, motors, strip control patterns |
+| Hardware / PCB | Board bring-up, pin maps, BOM-style docs, QA notes |
 | Vision | YOLO, OpenCV, counting, disease / defect detection |
-| Hardware | Bench bring-up, pin maps, BOM-style docs, QA notes |
 
 <div align="center">
 
 ### Quick jump
 
 [Gas detector](https://github.com/MeharAbdulla/esp32-gas-flame-detector) ·
+[PCB bring-up](https://github.com/MeharAbdulla/vortex-esp32-devboard-firmware) ·
 [Pi crystal YOLO](https://github.com/MeharAbdulla/adjustable-vision-capture-rig) ·
 [MQTT](https://github.com/MeharAbdulla/esp32-home-assistant-mqtt-monitor) ·
 [Plant YOLO](https://github.com/MeharAbdulla/yolo-plant-disease-detector) ·
-[Sheep YOLO](https://github.com/MeharAbdulla/yolo-sheep-counter) ·
 [All repos](https://github.com/MeharAbdulla?tab=repositories)
 
 </div>
