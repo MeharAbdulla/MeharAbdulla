@@ -63,12 +63,12 @@
   </tr>
   <tr>
     <td width="50%" align="center" valign="top">
-      <a href="https://github.com/MeharAbdulla/Vision-Language-Benchmark">
-        <img src="https://opengraph.githubassets.com/1/MeharAbdulla/Vision-Language-Benchmark" width="420" alt="Vision Language Benchmark CLIP MediaTek" />
+      <a href="https://github.com/MeharAbdulla/yolo-plant-disease-detector">
+        <img src="https://raw.githubusercontent.com/MeharAbdulla/yolo-plant-disease-detector/main/media/demo-frame.jpg" width="420" alt="YOLOv8 plant disease" />
       </a>
       <br/><br/>
-      <a href="https://github.com/MeharAbdulla/Vision-Language-Benchmark"><b>Vision-Language Benchmark (CLIP)</b></a>
-      <br/>MobileCLIP on MediaTek · edge latency · video AI
+      <a href="https://github.com/MeharAbdulla/yolo-plant-disease-detector"><b>YOLOv8 plant disease</b></a>
+      <br/>Leaf detection · CV pipeline · video demos
     </td>
     <td width="50%" align="center" valign="top">
       <a href="https://github.com/MeharAbdulla/adjustable-vision-capture-rig">
@@ -77,6 +77,24 @@
       <br/><br/>
       <a href="https://github.com/MeharAbdulla/adjustable-vision-capture-rig"><b>Pi crystal detection (YOLO)</b></a>
       <br/>Raspberry Pi · lab-jack camera · embedded AI
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" align="center" valign="top">
+      <a href="https://github.com/MeharAbdulla/esp32-fertilizer-spray-robot">
+        <img src="https://raw.githubusercontent.com/MeharAbdulla/esp32-fertilizer-spray-robot/main/media/prototype.jpg" width="420" alt="Spray robot" />
+      </a>
+      <br/><br/>
+      <a href="https://github.com/MeharAbdulla/esp32-fertilizer-spray-robot"><b>Fertilizer spray robot</b></a>
+      <br/>Solar ESP32 · pump control · field chassis
+    </td>
+    <td width="50%" align="center" valign="top">
+      <a href="https://github.com/MeharAbdulla/yolo-sheep-counter">
+        <img src="https://raw.githubusercontent.com/MeharAbdulla/yolo-sheep-counter/main/media/demo-frame.jpg" width="420" alt="YOLOv8 sheep counter" />
+      </a>
+      <br/><br/>
+      <a href="https://github.com/MeharAbdulla/yolo-sheep-counter"><b>YOLOv8 sheep counter</b></a>
+      <br/>Flock counting · object detection · video AI
     </td>
   </tr>
 </table>
@@ -96,7 +114,6 @@
 | [Freematics OBD-II MK2](https://github.com/MeharAbdulla/freematics-obd2-emulator-mk2) | Speed tracking OLED + desktop app |
 | [ESP32 gas and flame detector](https://github.com/MeharAbdulla/esp32-gas-flame-detector) | IoT safety gauge + flame alert |
 | [ESP32 PCB bring-up](https://github.com/MeharAbdulla/vortex-esp32-devboard-firmware) | Vortex board firmware validation |
-| [Fertilizer spray robot](https://github.com/MeharAbdulla/esp32-fertilizer-spray-robot) | Solar ESP32 spray chassis |
 | [IP66 field monitor](https://github.com/MeharAbdulla/ip66-field-monitor-node) | Sealed LCD field node |
 | [RFID attendance](https://github.com/MeharAbdulla/rfid-biometric-attendance) | RC522 + OLED kiosk |
 | [Sleep quality monitor](https://github.com/MeharAbdulla/smart-sleep-quality-monitor) | OLED metrics + audio |
@@ -141,9 +158,11 @@
 
 [SO-101 gripper](https://github.com/MeharAbdulla/so101-pi-cam-gripper) ·
 [OBD-II speed](https://github.com/MeharAbdulla/freematics-obd2-emulator-mk2) ·
-[CLIP MediaTek](https://github.com/MeharAbdulla/Vision-Language-Benchmark) ·
-[PCB bring-up](https://github.com/MeharAbdulla/vortex-esp32-devboard-firmware) ·
-[Pi crystal YOLO](https://github.com/MeharAbdulla/adjustable-vision-capture-rig) ·
-[All repos](https://github.com/MeharAbdulla?tab=repositories)
+[Plant YOLO](https://github.com/MeharAbdulla/yolo-plant-disease-detector) ·
+[Sheep YOLO](https://github.com/MeharAbdulla/yolo-sheep-counter) ·
+[Spray robot](https://github.com/MeharAbdulla/esp32-fertilizer-spray-robot) ·
+[Pi crystal](https://github.com/MeharAbdulla/adjustable-vision-capture-rig) ·
+[PCB](https://github.com/MeharAbdulla/vortex-esp32-devboard-firmware) ·
+[MQTT](https://github.com/MeharAbdulla/esp32-home-assistant-mqtt-monitor)
 
 </div>
