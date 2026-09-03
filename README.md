@@ -1,88 +1,101 @@
-![Banner](https://github.com/MeharAbdulla/MeharAbdulla/blob/main/assets/banner.png)
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1200&color=58A6FF&center=true&vCenter=true&width=820&lines=Embedded+Systems+%26+IoT+Engineer;ESP32+%7C+STM32+%7C+Raspberry+Pi;YOLO+%7C+OpenCV+%7C+Edge+AI;Firmware+%2B+Hardware+%2B+Cloud" alt="typing headline" />
+</p>
 
-
-<h1 align="center">Hi 👋, I'm Mehar Abdullah</h1>
-<h3 align="center">AI Automation Developer | ML Engineer | Robotics Enthusiast</h3>
+<h1 align="center">Mehar Abdullah</h1>
+<p align="center">
+  <b>Embedded Systems · IoT · Computer Vision · Edge AI</b><br/>
+  ESP32 · STM32 · Raspberry Pi · YOLO · MQTT · PCB / firmware
+</p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=MeharAbdulla&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views"/>
+  <a href="https://evotechnologyuae.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-evotech-0ea5e9?style=for-the-badge" alt="portfolio"/></a>
+  <a href="https://github.com/MeharAbdulla?tab=repositories"><img src="https://img.shields.io/badge/GitHub-MeharAbdulla-181717?style=for-the-badge&logo=github" alt="github"/></a>
+  <a href="mailto:meharabdullah665@gmail.com"><img src="https://img.shields.io/badge/Email-meharabdullah665@gmail.com-ea4335?style=for-the-badge&logo=gmail" alt="email"/></a>
+  <img src="https://komarev.com/gpvc/?username=MeharAbdulla&label=Profile+views&color=58A6FF&style=for-the-badge" alt="profile views"/>
 </p>
+
+I design, flash, and ship **real devices**: sensors, firmware, MQTT/cloud, and on-device vision. Same stack I use on Upwork — from ESP32 safety nodes and Home Assistant to YOLOv8 counting in the field.
 
 ---
 
-### 🚀 About Me
-- 🔭 I’m currently working on **AI automation systems with machine learning, FastAPI/Django, and computer vision** — projects include face recognition, real-time age detection, chatbots, and drone robotics (ESP32-CAM + IoT).  
-- 🌱 I’m learning **Generative AI (LLMs, RAG, fine-tuning), embedded systems for drones, robotics simulation (ROS + Gazebo), and cloud deployment with Docker & CI/CD**.  
-- 👯 I’m looking to collaborate on **AI agents, automation platforms, and robotics research**.  
-- 🤝 I’m looking for help with **scaling AI chatbots, autonomous drones/EV systems, and robotics R&D**.  
-- 💬 Ask me about **AI automation, ML, computer vision, FastAPI, Django, React, Vue, GSAP, and web scraping**.  
-- 👨‍💻 All of my projects are available at [github.com/MeharAbdulla](https://github.com/MeharAbdulla)  
-- 📫 **  
-- ⚡ Fun fact: **I don’t just train AI models—I make them automate workflows and run as real-world products.**
+## Featured work (click a repo)
 
----
+<table>
+<tr>
+<td width="50%">
 
-### 🛠️ Tech Stack  
+### IoT & firmware
+- [ESP32 gas & flame detector](https://github.com/MeharAbdulla/esp32-gas-flame-detector) — live gauge + alerts  
+- [Home Assistant MQTT monitor](https://github.com/MeharAbdulla/esp32-home-assistant-mqtt-monitor) — DHT → MQTT  
+- [Fertilizer spray robot](https://github.com/MeharAbdulla/esp32-fertilizer-spray-robot) — solar ESP32 + pump  
+- [nRF24 joystick remote](https://github.com/MeharAbdulla/esp32-nrf24-joystick-remote) — dual radio + OLED  
+- [IP66 field monitor](https://github.com/MeharAbdulla/ip66-field-monitor-node) — sealed industrial node  
+- [RFID attendance kiosk](https://github.com/MeharAbdulla/rfid-biometric-attendance) — RC522 + OLED  
 
-#### 🤖 AI / Machine Learning
-<p>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" width="40" height="40"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" width="40" height="40"/>
-</p>
+</td>
+<td width="50%">
 
-#### ⚙️ Backend & Automation
-<p>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/fastapi/fastapi-original.svg" width="40" height="40"/>
-  <img src="https://cdn.worldvectorlogo.com/logos/django.svg" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/n8n_io/n8n_io-icon.svg" width="40" height="40"/>
-</p>
+### Vision, edge AI & hardware
+- [YOLOv8 plant disease](https://github.com/MeharAbdulla/yolo-plant-disease-detector)  
+- [YOLOv8 sheep counter](https://github.com/MeharAbdulla/yolo-sheep-counter)  
+- [YOLOv8 potato counter](https://github.com/MeharAbdulla/yolo-potato-counter)  
+- [Vision capture rig](https://github.com/MeharAbdulla/adjustable-vision-capture-rig)  
+- [CLIP on MediaTek](https://github.com/MeharAbdulla/Vision-Language-Benchmark)  
+- [Motion capture (ESP32)](https://github.com/MeharAbdulla/ESP32-Smart-Motion---Capture-Monitor)  
+- [All demos in one map](https://github.com/MeharAbdulla/hardware-cv-portfolio-2026)  
 
-#### 🕹 Robotics & IoT
-<p>
-  <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" width="40" height="40"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/b/bb/ROS_logo.svg" width="40" height="40"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/5/51/Gazebo_logo.png" width="80" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="40" height="40"/>
-</p>
+</td>
+</tr>
+</table>
 
-#### 🌐 Frontend & Mobile
-<p>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="40" height="40"/>
-</p>
-
-#### ☁️ Cloud & Deployment
-<p>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" width="40" height="40"/>
-</p>
-
----
-
-### 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MeharAbdulla&show_icons=true&theme=tokyonight" alt="stats"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MeharAbdulla&theme=tokyonight" alt="streak"/>
+  <a href="https://github.com/MeharAbdulla/esp32-gas-flame-detector"><img src="https://img.shields.io/badge/ESP32-Gas%2FFlame-red?style=flat-square" /></a>
+  <a href="https://github.com/MeharAbdulla/esp32-home-assistant-mqtt-monitor"><img src="https://img.shields.io/badge/MQTT-Home%20Assistant-blue?style=flat-square" /></a>
+  <a href="https://github.com/MeharAbdulla/yolo-plant-disease-detector"><img src="https://img.shields.io/badge/YOLO-Plant%20disease-green?style=flat-square" /></a>
+  <a href="https://github.com/MeharAbdulla/Solar_Advisor"><img src="https://img.shields.io/badge/ML-Solar%20Advisor-orange?style=flat-square" /></a>
+  <a href="https://github.com/MeharAbdulla/evotech-ai-website"><img src="https://img.shields.io/badge/Web-EVO%20Tech-8b5cf6?style=flat-square" /></a>
 </p>
 
 ---
 
-### 🌐 Connect With Me
-<p>
-  <a href="https://linkedin.com/in/your-linkedin" target="_blank"><img src="https://cdn.worldvectorlogo.com/logos/linkedin-icon-2.svg" width="40" height="40"/></a>
-  <a href="https://twitter.com/your-twitter" target="_blank"><img src="https://cdn.worldvectorlogo.com/logos/twitter-6.svg" width="40" height="40"/></a>
-  <a href="https://kaggle.com/your-kaggle" target="_blank"><img src="https://www.vectorlogo.zone/logos/kaggle/kaggle-icon.svg" width="40" height="40"/></a>
-  <a href="mailto:meharabdullah665@gmail.com"><img src="https://cdn.worldvectorlogo.com/logos/official-gmail-icon-2020-.svg" width="40" height="40"/></a>
+## What I build for clients
+
+| Need | What you get |
+|---|---|
+| Custom firmware | ESP32 / Arduino / STM32 / Raspberry Pi, PlatformIO, FreeRTOS-style loops |
+| IoT product | MQTT, Home Assistant, Firebase, AWS IoT-style telemetry, dashboards |
+| Computer vision | YOLO, OpenCV, counting, disease/defect detection, camera rigs |
+| Hardware path | Sensors, actuators, motors, schematic-aware prototypes (KiCad / bring-up) |
+
+---
+
+## Stack
+
+**Embedded:** ESP32 · ESP8266 · STM32 · Arduino · Raspberry Pi · nRF24 · LoRa / BLE / Wi-Fi  
+**IoT:** MQTT · Home Assistant · Node-RED · ThingsBoard · HTTP / REST  
+**AI / CV:** YOLO · OpenCV · TensorFlow / Edge-style inference · Python  
+**Languages:** C++ · Python · C
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,cpp,c,arduino,linux,git,docker,aws,azure,fastapi,django,react,flutter,opencv,tensorflow,pytorch" alt="skills"/>
 </p>
+
+---
+
+## GitHub
+
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=MeharAbdulla&show_icons=true&theme=tokyonight&hide_border=true" alt="stats"/>
+  <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=MeharAbdulla&theme=tokyonight&hide_border=true" alt="streak"/>
+</p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MeharAbdulla&layout=compact&theme=tokyonight&hide_border=true" alt="top languages"/>
+</p>
+
+---
+
+## Hire / talk
+
+Open to **embedded, IoT, YOLO/CV, and drone/robotics** work.  
+Portfolio site: [evotechnologyuae.vercel.app](https://evotechnologyuae.vercel.app/) · Email: [meharabdullah665@gmail.com](mailto:meharabdullah665@gmail.com)
