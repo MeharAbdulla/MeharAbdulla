@@ -15,9 +15,7 @@
 
 </div>
 
-I design and ship **real devices**: SO-101 gripper + Pi Camera Module 3, ESP32 firmware, PCB bring-up, Raspberry Pi edge AI, MQTT, and YOLO vision — from CAD / bench to documented handoff.
-
-GitHub-only profile. No email, phone, or personal websites here.
+**AI Robotics Engineer** building SO-101 grippers, Edge AI (YOLO/OpenCV), ESP32 / Embedded Linux systems, ROS2-ready stacks, MQTT IoT, and PCB bring-up — from CAD and bench to documented handoff.
 
 ---
 
