@@ -1,101 +1,100 @@
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1200&color=58A6FF&center=true&vCenter=true&width=820&lines=Embedded+Systems+%26+IoT+Engineer;ESP32+%7C+STM32+%7C+Raspberry+Pi;YOLO+%7C+OpenCV+%7C+Edge+AI;Firmware+%2B+Hardware+%2B+Cloud" alt="typing headline" />
-</p>
+<div align="center">
 
-<h1 align="center">Mehar Abdullah</h1>
-<p align="center">
-  <b>Embedded Systems · IoT · Computer Vision · Edge AI</b><br/>
-  ESP32 · STM32 · Raspberry Pi · YOLO · MQTT · PCB / firmware
-</p>
+# Mehar Abdullah
 
-<p align="center">
-  <a href="https://github.com/MeharAbdulla?tab=repositories"><img src="https://img.shields.io/badge/GitHub-MeharAbdulla-181717?style=for-the-badge&logo=github" alt="github"/></a>
-  <img src="https://komarev.com/gpvc/?username=MeharAbdulla&label=Profile+views&color=58A6FF&style=for-the-badge" alt="profile views"/>
-</p>
+**Embedded Systems & IoT Engineer**
 
-I design, flash, and ship **real devices**: sensors, firmware, MQTT/cloud, and on-device vision — ESP32 safety nodes, Home Assistant, and YOLOv8 counting in the field.
+ESP32 · STM32 · Raspberry Pi · YOLO · OpenCV · MQTT · Firmware
 
-Public GitHub only. No email, phone, or off-platform contact on this profile.
+[![GitHub](https://img.shields.io/badge/Repos-MeharAbdulla-161b22?logo=github&logoColor=white)](https://github.com/MeharAbdulla?tab=repositories)
+[![ESP32](https://img.shields.io/badge/ESP32-IoT-green)](https://github.com/MeharAbdulla/esp32-gas-flame-detector)
+[![YOLO](https://img.shields.io/badge/YOLO-Computer%20Vision-blue)](https://github.com/MeharAbdulla/yolo-plant-disease-detector)
+[![MQTT](https://img.shields.io/badge/MQTT-Home%20Assistant-orange)](https://github.com/MeharAbdulla/esp32-home-assistant-mqtt-monitor)
 
----
+</div>
 
-## Featured work (click a repo)
+I build **working hardware + firmware + vision**: ESP32 nodes, MQTT dashboards, YOLO counting, and field prototypes.
 
-<table>
-<tr>
-<td width="50%">
-
-### IoT & firmware
-- [ESP32 gas & flame detector](https://github.com/MeharAbdulla/esp32-gas-flame-detector) — live gauge + alerts  
-- [Home Assistant MQTT monitor](https://github.com/MeharAbdulla/esp32-home-assistant-mqtt-monitor) — DHT → MQTT  
-- [Fertilizer spray robot](https://github.com/MeharAbdulla/esp32-fertilizer-spray-robot) — solar ESP32 + pump  
-- [nRF24 joystick remote](https://github.com/MeharAbdulla/esp32-nrf24-joystick-remote) — dual radio + OLED  
-- [IP66 field monitor](https://github.com/MeharAbdulla/ip66-field-monitor-node) — sealed industrial node  
-- [RFID attendance kiosk](https://github.com/MeharAbdulla/rfid-biometric-attendance) — RC522 + OLED  
-
-</td>
-<td width="50%">
-
-### Vision, edge AI & hardware
-- [YOLOv8 plant disease](https://github.com/MeharAbdulla/yolo-plant-disease-detector)  
-- [YOLOv8 sheep counter](https://github.com/MeharAbdulla/yolo-sheep-counter)  
-- [YOLOv8 potato counter](https://github.com/MeharAbdulla/yolo-potato-counter)  
-- [Vision capture rig](https://github.com/MeharAbdulla/adjustable-vision-capture-rig)  
-- [CLIP on MediaTek](https://github.com/MeharAbdulla/Vision-Language-Benchmark)  
-- [Motion capture (ESP32)](https://github.com/MeharAbdulla/ESP32-Smart-Motion---Capture-Monitor)  
-- [All demos in one map](https://github.com/MeharAbdulla/hardware-cv-portfolio-2026)  
-
-</td>
-</tr>
-</table>
-
-<p align="center">
-  <a href="https://github.com/MeharAbdulla/esp32-gas-flame-detector"><img src="https://img.shields.io/badge/ESP32-Gas%2FFlame-red?style=flat-square" /></a>
-  <a href="https://github.com/MeharAbdulla/esp32-home-assistant-mqtt-monitor"><img src="https://img.shields.io/badge/MQTT-Home%20Assistant-blue?style=flat-square" /></a>
-  <a href="https://github.com/MeharAbdulla/yolo-plant-disease-detector"><img src="https://img.shields.io/badge/YOLO-Plant%20disease-green?style=flat-square" /></a>
-  <a href="https://github.com/MeharAbdulla/Solar_Advisor"><img src="https://img.shields.io/badge/ML-Solar%20Advisor-orange?style=flat-square" /></a>
-  <a href="https://github.com/MeharAbdulla/evotech-ai-website"><img src="https://img.shields.io/badge/Web-EVO%20Tech-8b5cf6?style=flat-square" /></a>
-</p>
+This profile is **GitHub only** (repos and README). No email, phone, WhatsApp, or personal websites here.
 
 ---
 
-## What I build for clients
+## Click a project
 
-| Need | What you get |
-|---|---|
-| Custom firmware | ESP32 / Arduino / STM32 / Raspberry Pi, PlatformIO, FreeRTOS-style loops |
-| IoT product | MQTT, Home Assistant, Firebase, AWS IoT-style telemetry, dashboards |
-| Computer vision | YOLO, OpenCV, counting, disease/defect detection, camera rigs |
-| Hardware path | Sensors, actuators, motors, schematic-aware prototypes (KiCad / bring-up) |
+<details open>
+<summary><b>IoT & firmware (ESP32 / sensors)</b></summary>
+
+| Project | What it does |
+| --- | --- |
+| [Gas & flame detector](https://github.com/MeharAbdulla/esp32-gas-flame-detector) | ESP32 safety node, live gas gauge, flame alert |
+| [MQTT Home Assistant](https://github.com/MeharAbdulla/esp32-home-assistant-mqtt-monitor) | DHT temperature / humidity over MQTT |
+| [Fertilizer spray robot](https://github.com/MeharAbdulla/esp32-fertilizer-spray-robot) | Solar ESP32 chassis + pump control |
+| [nRF24 joystick remote](https://github.com/MeharAbdulla/esp32-nrf24-joystick-remote) | Dual radio handheld + OLED |
+| [IP66 field monitor](https://github.com/MeharAbdulla/ip66-field-monitor-node) | Sealed outdoor LCD node |
+| [RFID attendance](https://github.com/MeharAbdulla/rfid-biometric-attendance) | RC522 kiosk + OLED prompts |
+| [Sleep quality monitor](https://github.com/MeharAbdulla/smart-sleep-quality-monitor) | OLED rest / recovery metrics |
+| [Desk assistant](https://github.com/MeharAbdulla/mechanical-2k23-desk-assistant) | TFT clock, climate, menus |
+| [Motion capture](https://github.com/MeharAbdulla/ESP32-Smart-Motion---Capture-Monitor) | ESP32 motion capture monitor |
+
+</details>
+
+<details open>
+<summary><b>Computer vision & Edge AI (YOLO / OpenCV)</b></summary>
+
+| Project | What it does |
+| --- | --- |
+| [Plant disease (YOLOv8)](https://github.com/MeharAbdulla/yolo-plant-disease-detector) | Leaf / disease detection |
+| [Sheep counter](https://github.com/MeharAbdulla/yolo-sheep-counter) | Flock counting from video |
+| [Potato counter](https://github.com/MeharAbdulla/yolo-potato-counter) | Produce counting / QC |
+| [Vision capture rig](https://github.com/MeharAbdulla/adjustable-vision-capture-rig) | Height-adjust camera setup |
+| [CLIP on MediaTek](https://github.com/MeharAbdulla/Vision-Language-Benchmark) | Edge vision-language benchmark |
+| [Lane / object detection](https://github.com/MeharAbdulla/Lane-Segmentation-Object-Detection) | Driving-scene vision |
+| [Full map of demos](https://github.com/MeharAbdulla/hardware-cv-portfolio-2026) | All hardware + CV folders |
+
+</details>
+
+<div align="center">
+
+<a href="https://github.com/MeharAbdulla/esp32-gas-flame-detector">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=MeharAbdulla&repo=esp32-gas-flame-detector&theme=tokyonight&hide_border=true" alt="gas flame detector" />
+</a>
+<a href="https://github.com/MeharAbdulla/esp32-home-assistant-mqtt-monitor">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=MeharAbdulla&repo=esp32-home-assistant-mqtt-monitor&theme=tokyonight&hide_border=true" alt="mqtt monitor" />
+</a>
+<br/>
+<a href="https://github.com/MeharAbdulla/esp32-fertilizer-spray-robot">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=MeharAbdulla&repo=esp32-fertilizer-spray-robot&theme=tokyonight&hide_border=true" alt="spray robot" />
+</a>
+<a href="https://github.com/MeharAbdulla/yolo-plant-disease-detector">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=MeharAbdulla&repo=yolo-plant-disease-detector&theme=tokyonight&hide_border=true" alt="plant disease" />
+</a>
+
+</div>
 
 ---
 
-## Stack
+## What I ship
 
-**Embedded:** ESP32 · ESP8266 · STM32 · Arduino · Raspberry Pi · nRF24 · LoRa / BLE / Wi-Fi  
-**IoT:** MQTT · Home Assistant · Node-RED · ThingsBoard · HTTP / REST  
-**AI / CV:** YOLO · OpenCV · TensorFlow / Edge-style inference · Python  
-**Languages:** C++ · Python · C
+| You need | I deliver |
+| --- | --- |
+| Firmware | ESP32, Arduino, STM32, Raspberry Pi, PlatformIO |
+| IoT | MQTT, Home Assistant, sensors, actuators, motors |
+| Vision | YOLO, OpenCV, counting, disease / defect detection |
+| Hardware | Prototype bring-up, pin maps, BOM-style docs |
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,cpp,c,arduino,linux,git,docker,aws,azure,fastapi,django,react,flutter,opencv,tensorflow,pytorch" alt="skills"/>
-</p>
+**Stack:** C++ · Python · C · ESP-IDF / Arduino · MQTT · YOLO · OpenCV · TensorFlow-style edge inference
 
----
-
-## GitHub
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=MeharAbdulla&show_icons=true&theme=tokyonight&hide_border=true" alt="stats"/>
-  <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=MeharAbdulla&theme=tokyonight&hide_border=true" alt="streak"/>
-</p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MeharAbdulla&layout=compact&theme=tokyonight&hide_border=true" alt="top languages"/>
-</p>
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=python,cpp,c,arduino,linux,git,docker,opencv,tensorflow,pytorch" alt="skills" />
+</div>
 
 ---
 
-## Freelance
+## Activity
 
-Open to **embedded, IoT, YOLO/CV, and drone/robotics** work.  
-If we are working together, use **Upwork messages only** — do not share personal email, WhatsApp, or phone here.
+<div align="center">
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=MeharAbdulla&show_icons=true&theme=tokyonight&hide_border=true" alt="stats" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MeharAbdulla&layout=compact&theme=tokyonight&hide_border=true" alt="languages" />
+</div>
+
+Browse all public work: [github.com/MeharAbdulla](https://github.com/MeharAbdulla?tab=repositories)
