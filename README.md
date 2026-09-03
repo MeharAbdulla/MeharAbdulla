@@ -8,8 +8,8 @@
 
 [![Repos](https://img.shields.io/badge/GitHub-Repos-161b22?style=for-the-badge&logo=github)](https://github.com/MeharAbdulla?tab=repositories)
 [![SO-101](https://img.shields.io/badge/SO--101-Pi%20Cam%20Gripper-a855f7?style=for-the-badge)](https://github.com/MeharAbdulla/so101-pi-cam-gripper)
+[![OBD-II](https://img.shields.io/badge/OBD--II-Speed%20Tracking-f59e0b?style=for-the-badge)](https://github.com/MeharAbdulla/freematics-obd2-emulator-mk2)
 [![PCB](https://img.shields.io/badge/PCB-Bring--up-0ea5e9?style=for-the-badge)](https://github.com/MeharAbdulla/vortex-esp32-devboard-firmware)
-[![ESP32](https://img.shields.io/badge/ESP32-IoT-39D353?style=for-the-badge)](https://github.com/MeharAbdulla/esp32-gas-flame-detector)
 
 <img src="https://skillicons.dev/icons?i=python,cpp,c,arduino,linux,git,docker,opencv,tensorflow,pytorch&theme=dark" alt="skills" />
 
@@ -45,12 +45,12 @@
   </tr>
   <tr>
     <td width="50%" align="center" valign="top">
-      <a href="https://github.com/MeharAbdulla/esp32-gas-flame-detector">
-        <img src="https://raw.githubusercontent.com/MeharAbdulla/esp32-gas-flame-detector/main/media/prototype.jpg" width="420" alt="Gas and flame detector" />
+      <a href="https://github.com/MeharAbdulla/vortex-esp32-devboard-firmware">
+        <img src="https://raw.githubusercontent.com/MeharAbdulla/vortex-esp32-devboard-firmware/main/media/board-render.jpg" width="420" alt="Vortex ESP32 PCB" />
       </a>
       <br/><br/>
-      <a href="https://github.com/MeharAbdulla/esp32-gas-flame-detector"><b>ESP32 gas and flame detector</b></a>
-      <br/>Live IoT safety gauge · flame alert · mobile UI
+      <a href="https://github.com/MeharAbdulla/vortex-esp32-devboard-firmware"><b>ESP32 PCB bring-up (Vortex)</b></a>
+      <br/>Custom board · LEDs · GPIO · firmware validation
     </td>
     <td width="50%" align="center" valign="top">
       <a href="https://github.com/MeharAbdulla/esp32-home-assistant-mqtt-monitor">
@@ -94,6 +94,7 @@
 | --- | --- |
 | [SO-101 Pi Cam gripper](https://github.com/MeharAbdulla/so101-pi-cam-gripper) | 65 mm jaws + Cam Module 3 palm |
 | [Freematics OBD-II MK2](https://github.com/MeharAbdulla/freematics-obd2-emulator-mk2) | Speed tracking OLED + desktop app |
+| [ESP32 gas and flame detector](https://github.com/MeharAbdulla/esp32-gas-flame-detector) | IoT safety gauge + flame alert |
 | [ESP32 PCB bring-up](https://github.com/MeharAbdulla/vortex-esp32-devboard-firmware) | Vortex board firmware validation |
 | [IP66 field monitor](https://github.com/MeharAbdulla/ip66-field-monitor-node) | Sealed LCD field node |
 | [RFID attendance](https://github.com/MeharAbdulla/rfid-biometric-attendance) | RC522 + OLED kiosk |
@@ -139,7 +140,7 @@
 [SO-101 gripper](https://github.com/MeharAbdulla/so101-pi-cam-gripper) ·
 [OBD-II speed](https://github.com/MeharAbdulla/freematics-obd2-emulator-mk2) ·
 [PCB bring-up](https://github.com/MeharAbdulla/vortex-esp32-devboard-firmware) ·
-[Gas detector](https://github.com/MeharAbdulla/esp32-gas-flame-detector) ·
+[MQTT](https://github.com/MeharAbdulla/esp32-home-assistant-mqtt-monitor) ·
 [Pi crystal YOLO](https://github.com/MeharAbdulla/adjustable-vision-capture-rig) ·
 [All repos](https://github.com/MeharAbdulla?tab=repositories)
 
