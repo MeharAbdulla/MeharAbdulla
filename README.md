@@ -9,13 +9,13 @@
 </p>
 
 <p align="center">
-  <a href="https://evotechnologyuae.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-evotech-0ea5e9?style=for-the-badge" alt="portfolio"/></a>
   <a href="https://github.com/MeharAbdulla?tab=repositories"><img src="https://img.shields.io/badge/GitHub-MeharAbdulla-181717?style=for-the-badge&logo=github" alt="github"/></a>
-  <a href="mailto:meharabdullah665@gmail.com"><img src="https://img.shields.io/badge/Email-meharabdullah665@gmail.com-ea4335?style=for-the-badge&logo=gmail" alt="email"/></a>
   <img src="https://komarev.com/gpvc/?username=MeharAbdulla&label=Profile+views&color=58A6FF&style=for-the-badge" alt="profile views"/>
 </p>
 
-I design, flash, and ship **real devices**: sensors, firmware, MQTT/cloud, and on-device vision. Same stack I use on Upwork — from ESP32 safety nodes and Home Assistant to YOLOv8 counting in the field.
+I design, flash, and ship **real devices**: sensors, firmware, MQTT/cloud, and on-device vision — ESP32 safety nodes, Home Assistant, and YOLOv8 counting in the field.
+
+Public GitHub only. No email, phone, or off-platform contact on this profile.
 
 ---
 
@@ -95,7 +95,7 @@ I design, flash, and ship **real devices**: sensors, firmware, MQTT/cloud, and o
 
 ---
 
-## Hire / talk
+## Freelance
 
 Open to **embedded, IoT, YOLO/CV, and drone/robotics** work.  
-Portfolio site: [evotechnologyuae.vercel.app](https://evotechnologyuae.vercel.app/) · Email: [meharabdullah665@gmail.com](mailto:meharabdullah665@gmail.com)
+If we are working together, use **Upwork messages only** — do not share personal email, WhatsApp, or phone here.
