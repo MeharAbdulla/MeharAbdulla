@@ -45,12 +45,12 @@
   </tr>
   <tr>
     <td width="50%" align="center" valign="top">
-      <a href="https://github.com/MeharAbdulla/vortex-esp32-devboard-firmware">
-        <img src="https://raw.githubusercontent.com/MeharAbdulla/vortex-esp32-devboard-firmware/main/media/board-render.jpg" width="420" alt="Vortex ESP32 PCB" />
+      <a href="https://github.com/MeharAbdulla/yolo-sheep-counter">
+        <img src="https://raw.githubusercontent.com/MeharAbdulla/yolo-sheep-counter/main/media/demo-frame.jpg" width="420" alt="YOLOv8 sheep counter" />
       </a>
       <br/><br/>
-      <a href="https://github.com/MeharAbdulla/vortex-esp32-devboard-firmware"><b>ESP32 PCB bring-up (Vortex)</b></a>
-      <br/>Custom board · LEDs · GPIO · firmware validation
+      <a href="https://github.com/MeharAbdulla/yolo-sheep-counter"><b>YOLOv8 sheep counter</b></a>
+      <br/>Flock counting · object detection · video AI
     </td>
     <td width="50%" align="center" valign="top">
       <a href="https://github.com/MeharAbdulla/esp32-home-assistant-mqtt-monitor">
@@ -89,12 +89,12 @@
       <br/>Solar ESP32 · pump control · field chassis
     </td>
     <td width="50%" align="center" valign="top">
-      <a href="https://github.com/MeharAbdulla/yolo-sheep-counter">
-        <img src="https://raw.githubusercontent.com/MeharAbdulla/yolo-sheep-counter/main/media/demo-frame.jpg" width="420" alt="YOLOv8 sheep counter" />
+      <a href="https://github.com/MeharAbdulla/vortex-esp32-devboard-firmware">
+        <img src="https://raw.githubusercontent.com/MeharAbdulla/vortex-esp32-devboard-firmware/main/media/board-render.jpg" width="420" alt="Vortex ESP32 PCB" />
       </a>
       <br/><br/>
-      <a href="https://github.com/MeharAbdulla/yolo-sheep-counter"><b>YOLOv8 sheep counter</b></a>
-      <br/>Flock counting · object detection · video AI
+      <a href="https://github.com/MeharAbdulla/vortex-esp32-devboard-firmware"><b>ESP32 PCB bring-up (Vortex)</b></a>
+      <br/>Custom board · LEDs · GPIO · firmware validation
     </td>
   </tr>
 </table>
@@ -158,11 +158,11 @@
 
 [SO-101 gripper](https://github.com/MeharAbdulla/so101-pi-cam-gripper) ·
 [OBD-II speed](https://github.com/MeharAbdulla/freematics-obd2-emulator-mk2) ·
-[Plant YOLO](https://github.com/MeharAbdulla/yolo-plant-disease-detector) ·
 [Sheep YOLO](https://github.com/MeharAbdulla/yolo-sheep-counter) ·
-[Spray robot](https://github.com/MeharAbdulla/esp32-fertilizer-spray-robot) ·
+[MQTT](https://github.com/MeharAbdulla/esp32-home-assistant-mqtt-monitor) ·
+[Plant YOLO](https://github.com/MeharAbdulla/yolo-plant-disease-detector) ·
 [Pi crystal](https://github.com/MeharAbdulla/adjustable-vision-capture-rig) ·
-[PCB](https://github.com/MeharAbdulla/vortex-esp32-devboard-firmware) ·
-[MQTT](https://github.com/MeharAbdulla/esp32-home-assistant-mqtt-monitor)
+[Spray robot](https://github.com/MeharAbdulla/esp32-fertilizer-spray-robot) ·
+[PCB](https://github.com/MeharAbdulla/vortex-esp32-devboard-firmware)
 
 </div>
