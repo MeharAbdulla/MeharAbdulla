@@ -35,6 +35,16 @@
       <br/>65 mm parallel grip · palm camera · agentic CAD
     </td>
     <td width="50%" align="center" valign="top">
+      <a href="https://github.com/MeharAbdulla/freematics-obd2-emulator-mk2">
+        <img src="https://raw.githubusercontent.com/MeharAbdulla/freematics-obd2-emulator-mk2/main/media/prototype.jpg" width="420" alt="OBD-II MK2 speed display" />
+      </a>
+      <br/><br/>
+      <a href="https://github.com/MeharAbdulla/freematics-obd2-emulator-mk2"><b>Freematics OBD-II MK2</b></a>
+      <br/>Speed tracking · OLED · desktop app
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" align="center" valign="top">
       <a href="https://github.com/MeharAbdulla/esp32-gas-flame-detector">
         <img src="https://raw.githubusercontent.com/MeharAbdulla/esp32-gas-flame-detector/main/media/prototype.jpg" width="420" alt="Gas and flame detector" />
       </a>
@@ -42,8 +52,6 @@
       <a href="https://github.com/MeharAbdulla/esp32-gas-flame-detector"><b>ESP32 gas and flame detector</b></a>
       <br/>Live IoT safety gauge · flame alert · mobile UI
     </td>
-  </tr>
-  <tr>
     <td width="50%" align="center" valign="top">
       <a href="https://github.com/MeharAbdulla/esp32-home-assistant-mqtt-monitor">
         <img src="https://raw.githubusercontent.com/MeharAbdulla/esp32-home-assistant-mqtt-monitor/main/media/prototype.jpg" width="420" alt="MQTT Home Assistant" />
@@ -51,14 +59,6 @@
       <br/><br/>
       <a href="https://github.com/MeharAbdulla/esp32-home-assistant-mqtt-monitor"><b>MQTT Home Assistant monitor</b></a>
       <br/>DHT climate · MQTT publish · dashboard gauges
-    </td>
-    <td width="50%" align="center" valign="top">
-      <a href="https://github.com/MeharAbdulla/vortex-esp32-devboard-firmware">
-        <img src="https://raw.githubusercontent.com/MeharAbdulla/vortex-esp32-devboard-firmware/main/media/board-render.jpg" width="420" alt="Vortex ESP32 PCB" />
-      </a>
-      <br/><br/>
-      <a href="https://github.com/MeharAbdulla/vortex-esp32-devboard-firmware"><b>ESP32 PCB bring-up (Vortex)</b></a>
-      <br/>Custom board · LEDs · GPIO · firmware validation
     </td>
   </tr>
   <tr>
@@ -93,6 +93,7 @@
 | Project | Focus |
 | --- | --- |
 | [SO-101 Pi Cam gripper](https://github.com/MeharAbdulla/so101-pi-cam-gripper) | 65 mm jaws + Cam Module 3 palm |
+| [Freematics OBD-II MK2](https://github.com/MeharAbdulla/freematics-obd2-emulator-mk2) | Speed tracking OLED + desktop app |
 | [ESP32 PCB bring-up](https://github.com/MeharAbdulla/vortex-esp32-devboard-firmware) | Vortex board firmware validation |
 | [IP66 field monitor](https://github.com/MeharAbdulla/ip66-field-monitor-node) | Sealed LCD field node |
 | [RFID attendance](https://github.com/MeharAbdulla/rfid-biometric-attendance) | RC522 + OLED kiosk |
@@ -136,10 +137,10 @@
 ### Quick jump
 
 [SO-101 gripper](https://github.com/MeharAbdulla/so101-pi-cam-gripper) ·
+[OBD-II speed](https://github.com/MeharAbdulla/freematics-obd2-emulator-mk2) ·
 [PCB bring-up](https://github.com/MeharAbdulla/vortex-esp32-devboard-firmware) ·
 [Gas detector](https://github.com/MeharAbdulla/esp32-gas-flame-detector) ·
 [Pi crystal YOLO](https://github.com/MeharAbdulla/adjustable-vision-capture-rig) ·
-[MQTT](https://github.com/MeharAbdulla/esp32-home-assistant-mqtt-monitor) ·
 [All repos](https://github.com/MeharAbdulla?tab=repositories)
 
 </div>
