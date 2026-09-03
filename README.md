@@ -1,21 +1,21 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=26&duration=3500&pause=900&color=39D353&center=true&vCenter=true&width=720&lines=ESP32+IoT+%26+Edge+AI+Engineer;WLED+%7C+Firmware+%7C+MQTT;YOLO+%7C+OpenCV+%7C+Bench+Builds;From+prototype+to+batch" alt="typing animation" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=26&duration=3500&pause=900&color=39D353&center=true&vCenter=true&width=720&lines=ESP32+IoT+%26+Edge+AI+Engineer;Raspberry+Pi+%7C+YOLO+Crystal+Detection;WLED+%7C+Firmware+%7C+MQTT;From+prototype+to+batch" alt="typing animation" />
 
 # Mehar Abdullah
 
-**ESP32 · IoT · Firmware · Computer Vision**
+**ESP32 · Raspberry Pi · IoT · Edge AI · Computer Vision**
 
 [![Repos](https://img.shields.io/badge/GitHub-Repos-161b22?style=for-the-badge&logo=github)](https://github.com/MeharAbdulla?tab=repositories)
 [![ESP32](https://img.shields.io/badge/ESP32-IoT-39D353?style=for-the-badge)](https://github.com/MeharAbdulla/esp32-gas-flame-detector)
-[![YOLO](https://img.shields.io/badge/YOLO-Vision-1f6feb?style=for-the-badge)](https://github.com/MeharAbdulla/yolo-plant-disease-detector)
+[![Pi+YOLO](https://img.shields.io/badge/Pi-Crystal%20YOLO-c51a4a?style=for-the-badge)](https://github.com/MeharAbdulla/adjustable-vision-capture-rig)
 [![MQTT](https://img.shields.io/badge/MQTT-Home_Assistant-f78166?style=for-the-badge)](https://github.com/MeharAbdulla/esp32-home-assistant-mqtt-monitor)
 
 <img src="https://skillicons.dev/icons?i=python,cpp,c,arduino,linux,git,docker,opencv,tensorflow,pytorch&theme=dark" alt="skills" />
 
 </div>
 
-I design and ship **real devices**: ESP32 firmware, addressable-LED / IoT control, MQTT dashboards, and YOLO vision pipelines — from bench prototype to documented handoff.
+I design and ship **real devices**: ESP32 firmware, Raspberry Pi edge AI (crystal detection with YOLO), MQTT dashboards, and vision pipelines — from bench prototype to documented handoff.
 
 GitHub-only profile. No email, phone, or personal websites here.
 
@@ -65,20 +65,20 @@ GitHub-only profile. No email, phone, or personal websites here.
   </tr>
   <tr>
     <td width="50%" align="center" valign="top">
+      <a href="https://github.com/MeharAbdulla/adjustable-vision-capture-rig">
+        <img src="https://raw.githubusercontent.com/MeharAbdulla/adjustable-vision-capture-rig/main/media/prototype.jpg" width="420" alt="Pi crystal detection rig" />
+      </a>
+      <br/><br/>
+      <a href="https://github.com/MeharAbdulla/adjustable-vision-capture-rig"><b>Pi crystal detection (YOLO)</b></a>
+      <br/>Raspberry Pi · lab-jack camera · embedded AI
+    </td>
+    <td width="50%" align="center" valign="top">
       <a href="https://github.com/MeharAbdulla/yolo-sheep-counter">
         <img src="https://raw.githubusercontent.com/MeharAbdulla/yolo-sheep-counter/main/media/demo-frame.jpg" width="420" alt="Sheep counter" />
       </a>
       <br/><br/>
       <a href="https://github.com/MeharAbdulla/yolo-sheep-counter"><b>YOLOv8 sheep counter</b></a>
       <br/>Object counting from pasture video
-    </td>
-    <td width="50%" align="center" valign="top">
-      <a href="https://github.com/MeharAbdulla/esp32-nrf24-joystick-remote">
-        <img src="https://raw.githubusercontent.com/MeharAbdulla/esp32-nrf24-joystick-remote/main/media/prototype.jpg" width="420" alt="nRF24 remote" />
-      </a>
-      <br/><br/>
-      <a href="https://github.com/MeharAbdulla/esp32-nrf24-joystick-remote"><b>nRF24 joystick remote</b></a>
-      <br/>Dual radio · OLED · ESP32 teleop
     </td>
   </tr>
 </table>
@@ -110,10 +110,11 @@ GitHub-only profile. No email, phone, or personal websites here.
 
 | Project | Focus |
 | --- | --- |
+| [Pi crystal detection](https://github.com/MeharAbdulla/adjustable-vision-capture-rig) | Raspberry Pi + YOLOv8 crystals |
 | [Potato counter](https://github.com/MeharAbdulla/yolo-potato-counter) | Produce counting / QC |
-| [Vision capture rig](https://github.com/MeharAbdulla/adjustable-vision-capture-rig) | Height-adjust camera |
 | [CLIP on MediaTek](https://github.com/MeharAbdulla/Vision-Language-Benchmark) | Edge VLM benchmark |
 | [Lane / object detection](https://github.com/MeharAbdulla/Lane-Segmentation-Object-Detection) | Driving-scene vision |
+| [nRF24 remote](https://github.com/MeharAbdulla/esp32-nrf24-joystick-remote) | Dual radio ESP32 teleop |
 
 </details>
 
@@ -133,8 +134,8 @@ GitHub-only profile. No email, phone, or personal websites here.
 ### Quick jump
 
 [Gas detector](https://github.com/MeharAbdulla/esp32-gas-flame-detector) ·
+[Pi crystal YOLO](https://github.com/MeharAbdulla/adjustable-vision-capture-rig) ·
 [MQTT](https://github.com/MeharAbdulla/esp32-home-assistant-mqtt-monitor) ·
-[Spray robot](https://github.com/MeharAbdulla/esp32-fertilizer-spray-robot) ·
 [Plant YOLO](https://github.com/MeharAbdulla/yolo-plant-disease-detector) ·
 [Sheep YOLO](https://github.com/MeharAbdulla/yolo-sheep-counter) ·
 [All repos](https://github.com/MeharAbdulla?tab=repositories)
