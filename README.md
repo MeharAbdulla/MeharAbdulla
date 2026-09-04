@@ -116,7 +116,7 @@
 | [ESP32 PCB bring-up](https://github.com/MeharAbdulla/vortex-esp32-devboard-firmware) | Vortex board firmware validation |
 | [IP66 field monitor](https://github.com/MeharAbdulla/ip66-field-monitor-node) | Sealed LCD field node |
 | [RFID attendance](https://github.com/MeharAbdulla/rfid-biometric-attendance) | RC522 + OLED kiosk |
-| [Sleep quality monitor](https://github.com/MeharAbdulla/smart-sleep-quality-monitor) | OLED metrics + audio |
+| [Wearable sleep quality monitor](https://github.com/MeharAbdulla/wearable-sleep-quality-monitor) | OLED metrics + audio |
 | [Desk assistant](https://github.com/MeharAbdulla/mechanical-2k23-desk-assistant) | TFT UI + climate |
 | [Motion capture](https://github.com/MeharAbdulla/ESP32-Smart-Motion---Capture-Monitor) | PIR + LED + OLED |
 | [Full demo map](https://github.com/MeharAbdulla/hardware-cv-portfolio-2026) | Hardware + CV index |
